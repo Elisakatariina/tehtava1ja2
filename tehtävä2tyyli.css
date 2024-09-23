@@ -1,0 +1,43 @@
+/* Yleiset tyylit */
+.tehtava2  {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #c1b9e7; /* Valitse haluamasi väri */
+}
+
+
+/* Navigointipalkki */
+.navbar {
+    background-color: #e3ebf3; 
+    height: 70px; /* Aseta haluamasi korkeus */
+    padding: 10px 20px; /* Lisää tilaa ylhäällä ja alhaalla */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Nav-linkkien tyylit */
+.navbar-nav {
+    display: flex; /* Flexbox, jotta linkit ovat vaakasuorassa */
+    list-style: none; /* Poistaa palloja */
+    padding: 0; /* Poistaa ylimääräisen paddingin */
+}
+
+.navbar-nav .nav-item {
+    margin: 0 15px; /* Tilaa linkkien välille */
+}
+
+.navbar-nav .nav-link {
+    font-size: 24px; /* Muuta arvo suuremmaksi tarpeen mukaan */
+    color: #000000; 
+    padding: 15px 20px; /* Lisää tilaa linkkien ympärille */
+    text-decoration: none; /* Poistaa alaviivan */
+}
+
+
+/* Hover-tila linkille */
+.navbar-nav .nav-link:hover {
+    color: #59574a; /* Keltaista hover-tilassa */
+}
+
+img {
+    width: 50%; 
+    height: auto; 
+}
