@@ -1,4 +1,5 @@
-fetch('https://run.mocky.io/v3/1ddfc5f7-6739-439a-9308-059c171eb7a2')
+//Haetaan Githubista 
+fetch('https://elisakatariina.github.io/tehtava2/tehtava2.JSON')
 // Muunnetaan vastaus JSON muotoon
 
 // Muunnetaan vastaus JSON muotoon
