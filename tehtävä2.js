@@ -33,11 +33,3 @@ fetch('https://run.mocky.io/v3/1ddfc5f7-6739-439a-9308-059c171eb7a2')
       // Teksti-muuttujan sisällön tulostus
     document.getElementById("vastaus2").innerHTML = teksti;
   }
-  
-//  "kuvaus": "JSON-tiedoston suunnittelu ja tietojen hakeminen",
-//    "kuva": "",
-//    "lukumäärä":"osallistujien lukumäärä : 25",
-//    "osallistujiennimet":"Osallistujien nimet:",
-//    "alkamispäivä":"Toteutuksen alkamispäivä: 9.11.2024",
-//    "päättymispäivä":"Toteutuksen päättymispäivä: 30.12.2024",
-//    "kesto":"Toteutuksen kesto viikoina: 8vk ",//
